@@ -12,7 +12,7 @@ const mentoras = [
   {
     nome: "Amanda Silvestre",
     cargo: "Psicóloga e Criadora do Método",
-    img: "https://i.ibb.co/PGDH7L1G/amanda.png",
+    img: "/amanda.png",
     bio: [
       "Psicóloga, especialista em desenvolvimento de pessoas com pós-graduação em Gestão de Pessoas e Psicologia Organizacional.",
       "Mais de 10 anos construindo estratégias de desenvolvimento que transformam carreiras e impulsionam negócios.",
@@ -23,7 +23,7 @@ const mentoras = [
   {
     nome: "Luciana Ludwig",
     cargo: "Consultora de Carreira e Estrategista",
-    img: "https://i.ibb.co/B24d9zRW/luciana.png",
+    img: "/luciana.png",
     bio: [
       "Consultora de carreira e especialista em desenvolvimento profissional com 24 anos de experiência em grandes empresas.",
       "Sua trajetória inclui liderança de equipes e estruturação de estratégias de crescimento.",
