@@ -6,7 +6,7 @@ export default function Header() {
       <div className="max-w-7xl mx-auto px-6 py-4 flex items-center justify-center">
         <Link to="/" className="block">
           <img
-            src="https://i.ibb.co/cd8CF6w/image-15.png"
+            src="/ascensao-logo.png"
             alt="Ascensão Pro"
             className="h-12 md:h-14 w-auto object-contain"
           />
